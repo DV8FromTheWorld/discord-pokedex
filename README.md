@@ -5,8 +5,8 @@ The application is written in Java using [JDA](https://github.com/discord-jda/jd
 The event, and this application, were to show off the new [Message Components](https://discord.com/developers/docs/components/reference) that [Discord launched for developers](https://discord.com/developers/docs/change-log#introducing-new-components-for-messages) 
 to build new and more feature-full Application experiences on the platform.
 
-The live stream event was recorded and is available here
-https://www.youtube.com/watch?v=GVeIqO0pGE4
+
+[![Clickable image that links to youtube video showing the creation of the code in this repository](/.github/images/livestream-hero-image.png)](https://youtu.be/GVeIqO0pGE4?t=276)
 
 ## Example Screenshots
 |                                                     |                                                          |
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=GVeIqO0pGE4
 The code provided in this repo is [licensed under MIT](/LICENSE). Feel free to use as you wish.
 
 On the other hand, the data, images, and IP related to Pokémon belong to GameFreak and The Pokémon Company. 
-Their use in this project is based on Fair Use. The above MIT license does not provide and rights to that data.
+Their use in this project is based on Fair Use. The above MIT license does not provide any rights to that data.
 
 ## Acknowledgements
 The data present in the [/pokemon-data](/pokemon-data) folder is sourced from the following locations
