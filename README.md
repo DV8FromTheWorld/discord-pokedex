@@ -32,5 +32,5 @@ The data present in the [/pokemon-data](/pokemon-data) folder is sourced from th
     Script for processing and uploading to Discord available [here](/pokemon-data/emoji-split-and-upload.sh).
 
 
-### Vishalsubbiah's [pokemon-images-and-types dataset](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types)
+### Thedagger's [pokemon-images-and-types dataset](https://www.kaggle.com/datasets/thedagger/pokemon-generation-one)
 - [/pokemon-data/images/media-gallery](/pokemon-data/images/media-gallery)
