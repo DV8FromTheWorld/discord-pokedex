@@ -14,7 +14,7 @@ import static net.dv8tion.pokedex.MyTestBot.HOSTED_ASSETS_ROOT;
 public class Pokedex
 {
     public static final int LAST_POKEMON_ID_IN_FIRST_GEN = 151;
-    public static final String POKEDEX_HEADER_URL = HOSTED_ASSETS_ROOT + "pokemon-data/images/pokedex-header.webp";
+    public static final String POKEDEX_HEADER_URL = HOSTED_ASSETS_ROOT + "/pokemon-data/images/pokedex-header.webp";
 
     private static final String POKEDEX_DATA_FILE = "pokemon-data/pokedex.json";
     private static final String EMOJI_DATA_FILE = "pokemon-data/emoji_ids.json";
